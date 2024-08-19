@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 101df61f8ae1a064cb08be527b257058
+timeCreated: 1724091133
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: box_gym
+    100004: polygon0
+    100006: polygon1
+    100008: polygon10
+    100010: polygon101
+    100012: polygon110
+    100014: polygon114
+    100016: polygon227
+    100018: polygon228
+    100020: polygon231
+    100022: polygon235
+    100024: polygon249
+    100026: polygon258
+    100028: polygon260
+    100030: polygon265
+    100032: polygon267
+    100034: polygon280
+    100036: polygon316
+    100038: polygon334
+    100040: polygon382
+    100042: polygon383
+    100044: polygon391
+    100046: polygon44
+    100048: polygon46
+    100050: polygon47
+    100052: polygon518
+    100054: polygon519
+    100056: polygon52
+    100058: polygon522
+    100060: polygon523
+    100062: polygon524
+    100064: polygon526
+    100066: polygon605
+    100068: polygon606
+    100070: polygon622
+    100072: polygon9
+    400000: //RootNode
+    400002: box_gym
+    400004: polygon0
+    400006: polygon1
+    400008: polygon10
+    400010: polygon101
+    400012: polygon110
+    400014: polygon114
+    400016: polygon227
+    400018: polygon228
+    400020: polygon231
+    400022: polygon235
+    400024: polygon249
+    400026: polygon258
+    400028: polygon260
+    400030: polygon265
+    400032: polygon267
+    400034: polygon280
+    400036: polygon316
+    400038: polygon334
+    400040: polygon382
+    400042: polygon383
+    400044: polygon391
+    400046: polygon44
+    400048: polygon46
+    400050: polygon47
+    400052: polygon518
+    400054: polygon519
+    400056: polygon52
+    400058: polygon522
+    400060: polygon523
+    400062: polygon524
+    400064: polygon526
+    400066: polygon605
+    400068: polygon606
+    400070: polygon622
+    400072: polygon9
+    4300000: polygon0
+    4300002: polygon1
+    4300004: polygon9
+    4300006: polygon10
+    4300008: polygon44
+    4300010: polygon46
+    4300012: polygon47
+    4300014: polygon52
+    4300016: polygon101
+    4300018: polygon110
+    4300020: polygon114
+    4300022: polygon227
+    4300024: polygon228
+    4300026: polygon231
+    4300028: polygon235
+    4300030: polygon249
+    4300032: polygon258
+    4300034: polygon260
+    4300036: polygon265
+    4300038: polygon267
+    4300040: polygon280
+    4300042: polygon316
+    4300044: polygon334
+    4300046: polygon382
+    4300048: polygon383
+    4300050: polygon391
+    4300052: polygon518
+    4300054: polygon519
+    4300056: polygon522
+    4300058: polygon523
+    4300060: polygon524
+    4300062: polygon526
+    4300064: polygon605
+    4300066: polygon606
+    4300068: polygon622
+    9500000: //RootNode
+    13700000: polygon0
+    13700002: polygon1
+    13700004: polygon10
+    13700006: polygon101
+    13700008: polygon110
+    13700010: polygon114
+    13700012: polygon227
+    13700014: polygon228
+    13700016: polygon231
+    13700018: polygon235
+    13700020: polygon249
+    13700022: polygon258
+    13700024: polygon260
+    13700026: polygon265
+    13700028: polygon267
+    13700030: polygon280
+    13700032: polygon316
+    13700034: polygon334
+    13700036: polygon382
+    13700038: polygon383
+    13700040: polygon391
+    13700042: polygon44
+    13700044: polygon46
+    13700046: polygon47
+    13700048: polygon518
+    13700050: polygon519
+    13700052: polygon52
+    13700054: polygon522
+    13700056: polygon523
+    13700058: polygon524
+    13700060: polygon526
+    13700062: polygon605
+    13700064: polygon606
+    13700066: polygon622
+    13700068: polygon9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
