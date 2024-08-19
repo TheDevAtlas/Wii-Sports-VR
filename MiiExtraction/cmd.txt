@@ -1,0 +1,1 @@
+python3 fflExtract.py -i C:\Users\jacob\Downloads\asset_model_character_mii_AFLResHigh_2_3_dat\asset\model\character\mii\AFLResHigh_2_3.dat 365 859 -t C:\Users\jacob\Desktop\Mii -m C:\Users\jacob\Desktop\Mii
