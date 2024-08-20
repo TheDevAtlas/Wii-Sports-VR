@@ -110,11 +110,11 @@ PlayerSettings:
   psp2AcquireBGM: 1
   wiiUTVResolution: 0
   wiiUGamePadMSAA: 1
-  wiiUSupportsNunchuk: 0
-  wiiUSupportsClassicController: 0
-  wiiUSupportsBalanceBoard: 0
-  wiiUSupportsMotionPlus: 0
-  wiiUSupportsProController: 0
+  wiiUSupportsNunchuk: 1
+  wiiUSupportsClassicController: 1
+  wiiUSupportsBalanceBoard: 1
+  wiiUSupportsMotionPlus: 1
+  wiiUSupportsProController: 1
   wiiUAllowScreenCapture: 1
   wiiUControllerCount: 2
   m_SupportedAspectRatios:

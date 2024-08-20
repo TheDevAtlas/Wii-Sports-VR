@@ -335,6 +335,101 @@ SkinnedMeshRenderer:
     m_Center: {x: -20.614708, y: 2.80702, z: 64.05661}
     m_Extent: {x: 95.915695, y: 2.0044, z: 13.972366}
   m_DirtyAABB: 0
+--- !u!1 &118827050
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1676062166127494, guid: 16905f223e0f2644c96d52abe80ce22d,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 118827051}
+  - component: {fileID: 118827055}
+  - component: {fileID: 118827054}
+  - component: {fileID: 118827053}
+  - component: {fileID: 118827052}
+  m_Layer: 0
+  m_Name: TV Cam (1)
+  m_TagString: MainCamera
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &118827051
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4055726173732970, guid: 16905f223e0f2644c96d52abe80ce22d,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 118827050}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 795378915}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!81 &118827052
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 81572002031602394, guid: 16905f223e0f2644c96d52abe80ce22d,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 118827050}
+  m_Enabled: 1
+--- !u!92 &118827053
+Behaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 92652688190140028, guid: 16905f223e0f2644c96d52abe80ce22d,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 118827050}
+  m_Enabled: 1
+--- !u!124 &118827054
+Behaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 124998155230283688, guid: 16905f223e0f2644c96d52abe80ce22d,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 118827050}
+  m_Enabled: 1
+--- !u!20 &118827055
+Camera:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 20833729754752410, guid: 16905f223e0f2644c96d52abe80ce22d,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 118827050}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0.07801687, g: 0.15347762, b: 0.27205884, a: 0}
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.3
+  far clip plane: 1000
+  field of view: 60
+  orthographic: 0
+  orthographic size: 13.8
+  m_Depth: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 8400000, guid: d329a12241a040447bed13c2207e6de1, type: 2}
+  m_TargetDisplay: 1
+  m_TargetEye: 3
+  m_HDR: 1
+  m_AllowMSAA: 1
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+  m_StereoMirrorMode: 0
 --- !u!1 &119887940
 GameObject:
   m_ObjectHideFlags: 0
@@ -3560,6 +3655,11 @@ SkinnedMeshRenderer:
     m_Center: {x: 0, y: -13.249999, z: -180.21875}
     m_Extent: {x: 194.3984, y: 8.195312, z: 1.6640472}
   m_DirtyAABB: 0
+--- !u!4 &795378915 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 4426779674453944, guid: 16905f223e0f2644c96d52abe80ce22d,
+    type: 2}
+  m_PrefabInternal: {fileID: 1646491300}
 --- !u!1001 &830337944
 Prefab:
   m_ObjectHideFlags: 0
@@ -7281,7 +7381,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1991178144974118, guid: 16905f223e0f2644c96d52abe80ce22d, type: 2}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 20474768002959516, guid: 16905f223e0f2644c96d52abe80ce22d,
         type: 2}
@@ -7292,6 +7392,11 @@ Prefab:
         type: 2}
       propertyPath: field of view
       value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 114165487560114072, guid: 16905f223e0f2644c96d52abe80ce22d,
+        type: 2}
+      propertyPath: speed
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 114212851804584956, guid: 16905f223e0f2644c96d52abe80ce22d, type: 2}
