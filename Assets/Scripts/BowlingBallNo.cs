@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using WiiU = UnityEngine.WiiU;
 
-public class BowlingBall : MonoBehaviour {
+public class BowlingBallNo : MonoBehaviour {
 	
 	// 0 Is Left, 1 Is Right //
 	public int channel;
