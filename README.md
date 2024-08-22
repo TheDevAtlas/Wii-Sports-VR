@@ -47,7 +47,7 @@ This project is purely for educational purposes and is not intended to be distri
 ---
 
 <div align="center">
-  <img src="images/O1.png" alt="1" width="250" style="margin-right: 10px;"/>
-  <img src="images/O2.png" alt="2" width="250" style="margin-right: 10px;"/>
-  <img src="images/O3.png" alt="3" width="250"/>
+  <img src="images/1.png" alt="1" width="250" style="margin-right: 10px;"/>
+  <img src="images/2.gif" alt="2" width="250" style="margin-right: 10px;"/>
+  <img src="images/3.png" alt="3" width="250"/>
 </div>
