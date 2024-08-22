@@ -8,3 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Bowling.unity
     guid: 221e6460d12224d43aa848820e74ed9e
+  - enabled: 1
+    path: Assets/Main.unity
+    guid: adf11a636739e40429b7ab799c4614fb

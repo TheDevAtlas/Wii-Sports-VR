@@ -24,10 +24,7 @@ public class CameraController : MonoBehaviour {
 
 		if (gamePadState.gamePadErr == GamePadError.None) 
 		{
-
-
-
-			/*
+			
 			// Get Gyro Data, Convert To Degrees //
 			Vector3 gyroData = gamePadState.gyro;
 			//Vector3 gyroTwo = gamePadState.
@@ -46,7 +43,7 @@ public class CameraController : MonoBehaviour {
 				//speed /= 10f;
 			}
 
-
+			/*
 			// Read data from the gyroscope
 			//Vector3 gyroData = gamePadState.gyro;
 			//Vector3 scaledData = new Vector3 (-gyroData.x, -gyroData.z, gyroData.y);
